@@ -1,0 +1,121 @@
+osu/seclab/libscope/manifest/IManifestHandler.java
+ osu.seclab.libscope.manifest.IManifestHandler
+org/json/Property.java
+ org.json.Property
+org/json/Cookie.java
+ org.json.Cookie
+org/json/HTTPTokener.java
+ org.json.HTTPTokener
+com/googlecode/dex2jar/reader/io/DataOut.java
+ com.googlecode.dex2jar.reader.io.DataOut
+pxb/android/axml/AxmlVisitor.java
+ pxb.android.axml.AxmlVisitor
+ pxb.android.axml.AxmlVisitor$NodeVisitor
+org/json/JSONML.java
+ org.json.JSONML
+android/content/res/ChunkUtil.java
+ android.content.res.ChunkUtil
+org/json/JSONArray.java
+ org.json.JSONArray
+osu/seclab/libscope/main/Config.java
+ osu.seclab.libscope.main.Config
+org/json/XML.java
+ org.json.XML
+org/json/JSONTokener.java
+ org.json.JSONTokener
+osu/seclab/libscope/Utils/WalaUtils.java
+ osu.seclab.libscope.Utils.WalaUtils
+com/googlecode/dex2jar/reader/io/DataIn.java
+ com.googlecode.dex2jar.reader.io.DataIn
+osu/seclab/libscope/pkg/PackageTree.java
+ osu.seclab.libscope.pkg.PackageTree
+ osu.seclab.libscope.pkg.PackageTree$Node
+ osu.seclab.libscope.pkg.PackageTree$Node$1
+com/googlecode/dex2jar/reader/io/LeArrayDataIn.java
+ com.googlecode.dex2jar.reader.io.LeArrayDataIn
+org/json/CookieList.java
+ org.json.CookieList
+org/json/JSONException.java
+ org.json.JSONException
+org/json/JSONObject.java
+ org.json.JSONObject
+ org.json.JSONObject$1
+ org.json.JSONObject$Null
+org/json/XMLTokener.java
+ org.json.XMLTokener
+pxb/android/axml/StringItems.java
+ pxb.android.axml.StringItems
+osu/seclab/libscope/stats/Exportable.java
+ osu.seclab.libscope.stats.Exportable
+osu/seclab/libscope/stats/AppStats.java
+ osu.seclab.libscope.stats.AppStats
+ osu.seclab.libscope.stats.AppStats$Export
+ osu.seclab.libscope.stats.AppStats$Export$AppInfo
+org/json/HTTP.java
+ org.json.HTTP
+org/json/JSONString.java
+ org.json.JSONString
+pxb/android/axml/AxmlReader.java
+ pxb.android.axml.AxmlReader
+ pxb.android.axml.AxmlReader$1
+ pxb.android.axml.AxmlReader$2
+osu/seclab/libscope/main/runTest.java
+ osu.seclab.libscope.main.runTest
+android/content/res/StringBlock.java
+ android.content.res.StringBlock
+com/googlecode/dex2jar/reader/io/ArrayDataIn.java
+ com.googlecode.dex2jar.reader.io.ArrayDataIn
+osu/seclab/libscope/Utils/VersionWrapper.java
+ osu.seclab.libscope.Utils.VersionWrapper
+ osu.seclab.libscope.Utils.VersionWrapper$SEMVER
+osu/seclab/libscope/library/Identifier.java
+ osu.seclab.libscope.library.Identifier
+osu/seclab/libscope/Utils/Utils.java
+ osu.seclab.libscope.Utils.Utils
+ osu.seclab.libscope.Utils.Utils$1
+ osu.seclab.libscope.Utils.Utils$2
+ osu.seclab.libscope.Utils.Utils$IPredicate
+android/content/res/AXmlResourceParser.java
+ android.content.res.AXmlResourceParser
+ android.content.res.AXmlResourceParser$NamespaceStack
+osu/seclab/libscope/Utils/PackageUtils.java
+ osu.seclab.libscope.Utils.PackageUtils
+ osu.seclab.libscope.Utils.PackageUtils$RELATIONSHIP
+osu/seclab/libscope/Utils/ApkUtils.java
+ osu.seclab.libscope.Utils.ApkUtils
+android/content/res/IntReader.java
+ android.content.res.IntReader
+osu/seclab/libscope/profile/Profile.java
+ osu.seclab.libscope.profile.Profile
+osu/seclab/libscope/Utils/AndroidClassType.java
+ osu.seclab.libscope.Utils.AndroidClassType
+org/json/JSONStringer.java
+ org.json.JSONStringer
+pxb/android/axml/StringItem.java
+ pxb.android.axml.StringItem
+org/json/JSONWriter.java
+ org.json.JSONWriter
+osu/seclab/libscope/Utils/Pair.java
+ osu.seclab.libscope.Utils.Pair
+com/googlecode/dex2jar/reader/io/LeDataOut.java
+ com.googlecode.dex2jar.reader.io.LeDataOut
+osu/seclab/libscope/Utils/FileUtility.java
+ osu.seclab.libscope.Utils.FileUtility
+osu/seclab/libscope/Utils/AndroidEntryPointConstants.java
+ osu.seclab.libscope.Utils.AndroidEntryPointConstants
+ osu.seclab.libscope.Utils.AndroidEntryPointConstants$1
+org/json/CDL.java
+ org.json.CDL
+org/json/JSONPointerException.java
+ org.json.JSONPointerException
+pxb/android/axml/AXMLPrinter.java
+ pxb.android.axml.AXMLPrinter
+org/json/JSONPointer.java
+ org.json.JSONPointer
+ org.json.JSONPointer$Builder
+osu/seclab/libscope/manifest/ProcessManifest.java
+ osu.seclab.libscope.manifest.ProcessManifest
+ osu.seclab.libscope.manifest.ProcessManifest$1
+pxb/android/axml/EmptyAdapter.java
+ pxb.android.axml.EmptyAdapter
+ pxb.android.axml.EmptyAdapter$EmptyNode

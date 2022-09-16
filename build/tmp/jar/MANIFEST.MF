@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Version: 1.0.0
+Tool: LibScope
+Main-Class: osu.seclab.libscope.main.runTest
+
